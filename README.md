@@ -32,6 +32,8 @@ Acompanhe abaixo um pouco de como o app está no momento:
 ## List Transfers
 ![List Transfers](https://github.com/lilianeascosta/ByteBank/blob/main/images/trasnfers_list.PNG?raw=true)
 
+To test it on your smartphone you can download the APK available in this ![link](https://drive.google.com/file/d/1f04FgY0ZEjOoGfBPGZbEJ2J2ZM2_zAP4/view?usp=sharing)
+
 ## And .. that's it for now, more adventures coming soon! 😉😁
 # By: Liliane Costa
 
