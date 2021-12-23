@@ -1,17 +1,37 @@
-# bytebank
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # ByteBank
+
+An Alura project to start my studies with **Flutter**.
+Um projeto para iniciar meus estudos com **Flutter**.
+
+## About my progress
+
+I've been saving mostly steps from classes and researches on this document online: [doc link](https://docs.google.com/document/d/1bXmZuUwqO8FcrnE5v6kvcoX6fvavyRAlT09YSWnZnZo/edit?usp=sharing)
+Tenho salvado a maioria do passo a passo vindos de aulas ou pesquisas feitas neste documento online: [doc link](https://docs.google.com/document/d/1bXmZuUwqO8FcrnE5v6kvcoX6fvavyRAlT09YSWnZnZo/edit?usp=sharing)
+
+## About my studies
+
+This repository is based on Alura course also on Flutter documentation, but of course, we always search something on Google.
+Esse repositório é baseado num curso da Alura e também na documentação do Flutter, mas é claro, sempre fazemos pesquisas no Google.
+
+## About the app:
+Follow below a little about how the app is on the moment:
+<br/>
+Acompanhe abaixo um pouco de como o app está no momento:
+
+## Start Screen
+
+![Start Screen](https://github.com/lilianeascosta/ByteBank/blob/main/images/start_screen.PNG?raw=true)
+
+## Transfer Create
+
+![Transfer Create](https://github.com/lilianeascosta/ByteBank/blob/main/images/creating_transfers.PNG?raw=true)
+
+## Transfer Create Exemple
+![Transfer Create Exemple](https://github.com/lilianeascosta/ByteBank/blob/main/images/creating_transfers_exemple.PNG?raw=true)
+
+## List Transfers
+![List Transfers](https://github.com/lilianeascosta/ByteBank/blob/main/images/trasnfers_list.PNG?raw=true)
+
+## And .. that's it for now, more adventures coming soon! 😉😁
+# By: Liliane Costa
+
